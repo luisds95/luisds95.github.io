@@ -46,6 +46,10 @@ p.lead {
   font-weight: 400;
 }
 
+.title-link {
+  color: #1782cf;
+}
+
 .subheading {
   /*text-transform: capitalize;*/
   font-weight: 500;
@@ -175,7 +179,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #00BDFF !important;
+  background-color: #1782cf !important;
 }
 
 .text-primary {
@@ -183,7 +187,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #00BDFF;
+  color: #1782cf;
 }
 
 a:hover, a:focus, a:active {
